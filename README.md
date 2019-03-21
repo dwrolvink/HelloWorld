@@ -4,7 +4,7 @@ Hi, you can create Issues here as a way to get in touch with me!
 I'll try to show you around in this Github account.
 
 ## Dwrolvink.com
-[Visit my website](http://www.dwrolvink.com). I made it so it translates .md files using a [Markdev](https://github.com/markserv/markserv) service. See here how I made that work: [Building my Website](http://www.dwrolvink.com/?view=coding/website/building_this_website). (The live code for my website [can be found here](https://github.com/dwrolvink/dwrolvink.github.io).
+[Visit my website](http://www.dwrolvink.com). I made it so it translates .md files using a [Markdev](https://github.com/markserv/markserv) service, so I can easily copypaste finished writedowns from here over to there. (Never mind the ease of writing in markdown!). See here how I made that work: [Building my Website](http://www.dwrolvink.com/?view=coding/website/building_this_website). (The live code for my website [can be found here](https://github.com/dwrolvink/dwrolvink.github.io).
 
 > My website is something I'll aim to keep around forever, even if I someday migrate away from Github. 
 So if you never want to lose contact with me, that address is something to write down! 
